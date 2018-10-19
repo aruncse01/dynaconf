@@ -108,7 +108,7 @@ ENV_FOR_DYNACONF=staging python yourapp.py
 
 > **NOTE:** When using [FLask Extension](http://dynaconf.readthedocs.io/en/latest/guides/flask.html) the environment can be changed via `FLASK_ENV` variable and for [Django Extension](http://dynaconf.readthedocs.io/en/latest/guides/django.html) you can use `DJANGO_ENV`.
 
-## The settings files
+###  The settings files
 
 > **NOTE:** [Read the full documentaion](http://dynaconf.readthedocs.io/en/latest/index.html) about dynaconf CLI to learn how to automatically create the settings files for your project.
 
